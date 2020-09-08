@@ -74,6 +74,8 @@ h3 {
 }
 .skills{
     overflow: auto;
+    height: 100%;
+    display: block;
 }
 
 .skill-row {
